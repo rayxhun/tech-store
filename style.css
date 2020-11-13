@@ -86,6 +86,8 @@ img {
 }
 
 /* Contact us */
+main {align:center;}
+
 form {
   padding: 10px;
   margin: 10px 0;
@@ -105,6 +107,7 @@ form > div {
 input[type="text"], input[type="email"], textarea {
   padding: 10px;
   /*width: 400px;*/
+  display: inline-block;
   width: 90%;
 }
 
@@ -143,7 +146,6 @@ tr:hover {
   }
 
   iframe {width:80%;
- height:450px;
  border:0}
 
 
