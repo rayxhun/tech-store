@@ -100,6 +100,10 @@ form > div {
   max-width: 25%;
 }
 
+.inline input {
+  max-width:70%;
+}
+
 input[type="text"], input[type="email"], textarea {
   padding: 10px;
   max-width: 70%;
