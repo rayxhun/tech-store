@@ -86,12 +86,10 @@ img {
 }
 
 /* Contact us */
-main {align:center;}
-
 form {
   padding: 10px;
   margin: 10px 0;
-  width:40%;
+  width: 600px;
 }
 
 form > div {
@@ -100,15 +98,12 @@ form > div {
 
 .inline label {
   display: inline-block;
-  /*width: 100px;*/
-  width: 10%;
+  width: 100px;
 }
 
 input[type="text"], input[type="email"], textarea {
   padding: 10px;
-  /*width: 400px;*/
-  display: inline-block;
-  width: 90%;
+  width: 400px;
 }
 
 /* Table */
@@ -144,10 +139,6 @@ tr:hover {
     display: inline-block;
     width: 48%;
   }
-
-  iframe {width:80%;
- border:0}
-
 
 }
 
