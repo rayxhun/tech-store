@@ -155,7 +155,7 @@ input[type="text"], input[type="email"], textarea {
 
 /* Table */
 table {
-      width: 100%;;
+  width: 100%;
   text-align: left;
   margin: 20px 0;
 }
