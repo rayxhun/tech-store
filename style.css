@@ -87,7 +87,7 @@ img {
 
 
 .product-detail {
-   max-width: 100%;
+   max-width: 95%;
 }
 
 .product-detail img {
@@ -155,7 +155,7 @@ input[type="text"], input[type="email"], textarea {
 
 /* Table */
 table {
-  max-width: 100%;
+  max-width: 95%;
   text-align: left;
   margin: 20px 0;
 }
