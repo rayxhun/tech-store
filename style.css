@@ -92,7 +92,7 @@ main{  display: flex;
     align-items:center;
     flex-direction: column;
     flex-wrap: nowrap;
-    align-content:center; 
+    align-content:stretch; 
 }
 
 form {
@@ -110,12 +110,12 @@ form > div {
 
 .inline label {
   display: inline-block;
-  width: 100px;
+  width: 10%;
 }
 
 input[type="text"], input[type="email"], textarea {
   padding: 10px;
-  width: 400px;
+  width: 39%;
 }
 
 /* Table */
