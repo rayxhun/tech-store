@@ -102,14 +102,21 @@ main{  display: flex;
     align-content:stretch; 
 }
 
-
+form {
+  padding: 10px;
+  margin: 10px 0;
+  width: 600px;
+  text-align: center;
+  width:600;
+  height:450;
+}
 
 form > div {
   margin: 10px 0;
 }
 
 .inline label {
-  display: inline-block;
+  display: flex;
   width: 100px;
 }
 
