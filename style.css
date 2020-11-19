@@ -109,7 +109,7 @@ form > div {
 
 .inline label {
   display: inline-block;
-  width: 10%;
+  width: 25%;
 }
 
 input[type="text"], input[type="email"], textarea {
