@@ -90,21 +90,6 @@ img {
    max-width: 95%;
 }
 
-.product-detail img {
-  max-width: 50%;
-  float: left;
-}
-
-/* Contact us */
-
-main{  display: flex;
-    justify-content: center;
-    align-items:center;
-    flex-direction: column;
-    flex-wrap: nowrap;
-    align-content:stretch; 
-}
-
 .google-maps {
 
         position: relative;
@@ -184,7 +169,7 @@ tr:hover {
 
   .product {
     display: inline-block;
-    width: 48%;
+    width: 100%;
   }
 
 }
