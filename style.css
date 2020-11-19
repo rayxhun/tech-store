@@ -92,7 +92,7 @@ main{  display: flex;
     align-items:center;
     flex-direction: column;
     flex-wrap: nowrap;
-    align-content:stretch; 
+    align-content:center; 
 }
 
 form {
