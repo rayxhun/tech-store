@@ -86,13 +86,6 @@ img {
 }
 
 /* Contact us */
-.fos{  display: flex;
-    justify-content: center;
-    align-items:center;
-    flex-direction: column;
-    flex-wrap: nowrap;
-    align-content:stretch; 
-}
 
 main{  display: flex;
     justify-content: center;
@@ -116,7 +109,7 @@ form > div {
 }
 
 .inline label {
-  display: flex;
+  display: inline-block;
   width: 100px;
 }
 
