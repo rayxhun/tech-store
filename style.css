@@ -98,8 +98,10 @@ main{  display: flex;
 form {
   padding: 10px;
   margin: 10px 0;
-  width:100%;
-  }
+  width:85%;
+  text-align: center;
+  height:450;
+}
 
 form > div {
   margin: 10px 0;
