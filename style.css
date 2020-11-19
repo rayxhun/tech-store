@@ -76,8 +76,18 @@ img {
 }
 
 /* Product detail page */
+.product-detail.page {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content:stretch; 
+}
+
+
 .product-detail {
-  width: 660px;
+   max-width: 100%;
 }
 
 .product-detail img {
@@ -145,7 +155,7 @@ input[type="text"], input[type="email"], textarea {
 
 /* Table */
 table {
-  width: 400px;
+      width: 100%;;
   text-align: left;
   margin: 20px 0;
 }
